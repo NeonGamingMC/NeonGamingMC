@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NeonGamingMinecraft
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on... uhhh... idk?
 - 📫 How to reach me: dm me in discord(NeonGaming#6969)
 
